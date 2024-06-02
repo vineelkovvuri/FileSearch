@@ -1,1 +1,1 @@
-![Dectective 007](https://github.com/vineelkovvuri/FileSearch/raw/master/FileSearch.png)
+![File Search](https://github.com/vineelkovvuri/FileSearch/blob/main/FileSearch.png?raw=true)
