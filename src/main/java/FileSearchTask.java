@@ -2,6 +2,8 @@ import javax.swing.*;
 import java.io.File;
 import java.util.List;
 
+// https://docs.oracle.com/javase%2Ftutorial%2Fuiswing%2F%2F/examples/concurrency/FlipperProject/src/concurrency/Flipper.java
+// https://docs.oracle.com/javase%2Ftutorial%2Fuiswing%2F%2F/concurrency/interim.html
 public class FileSearchTask extends SwingWorker<Void, String> {
     String fileName;
     MainWindow mainWindow;
